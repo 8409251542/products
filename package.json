@@ -1,0 +1,12 @@
+{
+  "name": "sold",
+  "version": "1.0.0",
+  "description": "product",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashish",
+  "license": "ISC"
+}
